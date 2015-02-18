@@ -26,10 +26,10 @@
             }
         ]
     },
-    "shortName": "A.M.Out",
+    "shortName": "A.M.Outdoor",
     "uuid": "321e6144-66e5-430b-bd15-773c730a7468",
     "versionCode": 1,
-    "versionLabel": "1.0",
+    "versionLabel": "2.1",
     "watchapp": {
         "watchface": false
     }
