@@ -5,12 +5,11 @@
     ],
     "companyName": "archerydwd@gmail.com",
     "longName": "Arrow Mate Outdoor",
-    "projectType": "simplyjs",
+    "projectType": "pebblejs",
     "resources": {
         "media": [
             {
                 "file": "images/menu_icon.png",
-                "menuIcon": true,
                 "name": "IMAGE_MENU_ICON",
                 "type": "png"
             },
@@ -20,16 +19,28 @@
                 "type": "png"
             },
             {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "png"
+            },
+            {
                 "file": "fonts/UbuntuMono-Regular.ttf",
                 "name": "MONO_FONT_14",
                 "type": "font"
+            },
+            {
+                "file": "images/converted_1d789ce6.png",
+                "menuIcon": true,
+                "name": "IMAGES_CONVERTED_1D789CE6_PNG",
+                "type": "png"
             }
         ]
     },
-    "shortName": "A.M.Outdoor",
+    "sdkVersion": "3",
+    "shortName": "ArrowMateOut",
     "uuid": "321e6144-66e5-430b-bd15-773c730a7468",
     "versionCode": 1,
-    "versionLabel": "2.1",
+    "versionLabel": "3.1",
     "watchapp": {
         "watchface": false
     }
